@@ -21,6 +21,8 @@ group :assets do
   gem 'uglifier', '>= 1.2.3'
 end
 
+gem 'execjs'
+gem 'therubyracer'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
